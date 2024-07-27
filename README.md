@@ -1,5 +1,5 @@
 # MYSQL-BASIC
-## This project shows queries ran successfully on a company's database that deals with sales and puchase strength of their customers.
+## This project shows queries ran successfully on a company's database that wants to know the puchase strength of their customers, and the companys total sales.
 ### These comprises of four queries which I will highlight below :
 
 1. [Query 1](sql_queries1.sql) : This highlights my learning phase about running short codes to `query` the `database`. Some of the codes used in querying the database is listed here.
